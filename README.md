@@ -33,7 +33,7 @@ These skill areas come from my LinkedIn education/activity details and connect d
 | Git and GitHub | GitHub collaboration projects and version control practice | all public repositories, profile README, project READMEs, GitHub Pages site |
 | DevOps Workflow Basics | GitHub-based collaboration and workflow practice | team repositories, README improvements, GitHub Pages deployment |
 | Secure Software Development | Secure software development learning through GitHub-based projects | Flask apps, documentation, security-focused project planning |
-| Python and Flask | Python class projects and web application practice | `Kash-Card-Game`, `Dice-Game`, `Sofia-s-Bookstore-Event-Manager`, `Flask` |
+| Python and Flask | Python class projects and web application practice | `Kash-Card-Game`, `flask-dice-game`, `bookstore-event-manager`, `flask-learning-labs` |
 | Technical Documentation | Documentation habits from coursework, labs, and project work | professional READMEs, portfolio website, troubleshooting notes |
 
 ## Certifications
@@ -65,16 +65,16 @@ A Flask web application for a three-player card game with session-based scoring,
 - Repository: https://github.com/khalidshams-tech/Kash-Card-Game
 - Skills: Python, Flask, web routes, sessions, game logic, responsive UI
 
-### Dice Game
+### Flask Dice Game
 A small Flask web game that practices Python application structure, server-side logic, templates, and session state.
 
-- Repository: https://github.com/khalidshams-tech/Dice-Game
+- Repository: https://github.com/khalidshams-tech/flask-dice-game
 - Skills: Python, Flask, HTML templates, project organization
 
-### Sofia's Bookstore Event Manager
+### Bookstore Event Manager
 A Python console application for managing bookstore events, attendees, and event details with a menu-driven interface.
 
-- Repository: https://github.com/khalidshams-tech/Sofia-s-Bookstore-Event-Manager
+- Repository: https://github.com/khalidshams-tech/bookstore-event-manager
 - Skills: Python, CRUD logic, dictionaries, lists, functions, input validation
 
 ## Technical Skills
