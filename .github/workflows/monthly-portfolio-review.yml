@@ -1,0 +1,57 @@
+name: Monthly Portfolio Review
+
+on:
+  schedule:
+    # Runs at 9:00 AM UTC on the first day of every month.
+    - cron: "0 9 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  review-portfolio:
+    name: Review GitHub portfolio
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run monthly portfolio review
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: khalidshams-tech
+          PROFILE_REPO: khalidshams-tech/khalidshams-tech
+          BLOG_REPO: khalidshams-tech/blogIT138
+        run: python automation/portfolio_review.py
+
+      - name: Create pull request with portfolio suggestions
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: automation/monthly-portfolio-review
+          delete-branch: true
+          commit-message: "Update monthly portfolio review report"
+          title: "Monthly GitHub portfolio review"
+          body: |
+            This automated pull request contains the monthly GitHub portfolio review.
+
+            It may include:
+            - GitHub activity and repository summary
+            - Suggested profile README updates
+            - Suggested blogIT138 website updates
+            - LinkedIn-friendly project descriptions
+            - README improvement recommendations
+            - Codex monthly summary notes, if provided
+
+            Please review before merging. This workflow does not delete files.
+          labels: |
+            portfolio
+            automation

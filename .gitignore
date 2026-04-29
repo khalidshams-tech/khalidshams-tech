@@ -1,0 +1,4 @@
+automation/backups/
+__pycache__/
+.pytest_cache/
+.env
