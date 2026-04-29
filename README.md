@@ -5,8 +5,7 @@ IT support and cybersecurity student building practical skills in Linux, network
 ## About Me
 
 I am developing a career-ready technical portfolio focused on IT support, cybersecurity fundamentals, cloud computing, and software development. My work combines hands-on labs, small applications, automation scripts, and documentation that show how I troubleshoot problems and keep learning.
-
-According to my LinkedIn profile, I am currently studying cybersecurity at North Seattle College and previously worked with the CRDSA-WFP Project. My GitHub portfolio is designed to support future opportunities in IT support, help desk, cybersecurity, cloud computing, and technical support.
+I am currently studying cybersecurity at North Seattle College and previously worked with the CRDSA-WFP Project. My GitHub portfolio is designed to support future opportunities in IT support, help desk, cybersecurity, cloud computing, and technical support.
 
 My current focus areas include:
 
