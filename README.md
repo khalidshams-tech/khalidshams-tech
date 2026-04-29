@@ -8,33 +8,16 @@ I am developing a career-ready technical portfolio focused on IT support, cybers
 
 According to my LinkedIn profile, I am currently studying cybersecurity at North Seattle College and previously worked with the CRDSA-WFP Project. My GitHub portfolio is designed to support future opportunities in IT support, help desk, cybersecurity, cloud computing, and technical support.
 
-My current focus areas include:
+## Technical Skills
 
-- IT support and help desk troubleshooting
-- Linux command line, permissions, logs, and shell scripting
-- Networking fundamentals, DNS, IP addressing, SSH, and connectivity checks
-- Cybersecurity basics, log review, access control, and security awareness
-- Cloud computing with AWS fundamentals and virtual machine labs
-- Python, Flask, Bash, Git, GitHub, HTML, CSS, and technical documentation
-- Microsoft Office and professional workplace technology support
-
-## LinkedIn-Aligned Technical Skills
-
-These skill areas come from my LinkedIn education/activity details and connect directly to the projects in this GitHub portfolio.
-
-| Skill Area | LinkedIn-Related Experience | GitHub Evidence |
-| --- | --- | --- |
-| Cybersecurity Fundamentals | Cybersecurity studies, cybersecurity club participation, CompTIA Security+ preparation and certification | `log-triage`, technical blog security notes, security lab writeups |
-| Cloud Computing | AWS Academy labs and cloud computing practice | portfolio AWS notes, EC2 learning summaries, future AWS lab projects |
-| AWS IAM | Identity and Access Management lab practice | planned cloud security documentation and AWS learning notes |
-| AWS VPC and Networking | VPC setup, network security implementation, DNS/IP/connectivity learning | `linux-web`, networking notes, troubleshooting sections on the portfolio site |
-| AWS EC2 | EC2 configuration and secure SSH access practice | portfolio EC2 project notes and cloud lab summaries |
-| Linux/Unix | Linux/Unix lab projects, command-line practice, permissions, logs, and shell workflows | `log-triage`, `learning-linux-command-line-3005201`, `HAL-9000` |
-| Git and GitHub | GitHub collaboration projects and version control practice | all public repositories, profile README, project READMEs, GitHub Pages site |
-| DevOps Workflow Basics | GitHub-based collaboration and workflow practice | team repositories, README improvements, GitHub Pages deployment |
-| Secure Software Development | Secure software development learning through GitHub-based projects | Flask apps, documentation, security-focused project planning |
-| Python and Flask | Python class projects and web application practice | `Kash-Card-Game`, `flask-dice-game`, `bookstore-event-manager`, `flask-learning-labs` |
-| Technical Documentation | Documentation habits from coursework, labs, and project work | professional READMEs, portfolio website, troubleshooting notes |
+| Area | Best Skills |
+| --- | --- |
+| IT Support | Troubleshooting, help desk workflows, documentation, Microsoft Office |
+| Cybersecurity | CompTIA Security+, log review, secure access, network security basics |
+| Cloud Computing | AWS Academy labs, IAM, VPC, EC2, cloud security fundamentals |
+| Linux and Networking | Linux/Unix command line, Bash, SSH, DNS, IP addressing, connectivity checks |
+| Programming | Python, Flask, HTML, CSS, Git, GitHub |
+| Professional Skills | Technical documentation, GitHub collaboration, problem solving, teamwork |
 
 ## Certifications
 
@@ -76,18 +59,6 @@ A Python console application for managing bookstore events, attendees, and event
 
 - Repository: https://github.com/khalidshams-tech/bookstore-event-manager
 - Skills: Python, CRUD logic, dictionaries, lists, functions, input validation
-
-## Technical Skills
-
-| Area | Tools and Topics |
-| --- | --- |
-| IT Support | Troubleshooting, help desk workflows, documentation, Microsoft Office |
-| Operating Systems | Linux command line, Unix basics, file permissions, Bash, Windows support basics |
-| Networking | DNS, IP addressing, SSH, ports, connectivity testing, VPC concepts |
-| Cybersecurity | Security+, log review, failed login analysis, access control basics, secure habits |
-| Cloud | AWS fundamentals, IAM, EC2, VPC, cloud security learning labs |
-| Programming | Python, Flask, Bash, HTML, CSS, Git, GitHub |
-| Documentation | README files, technical notes, portfolio writing, project summaries |
 
 ## Current Learning Goals
 
