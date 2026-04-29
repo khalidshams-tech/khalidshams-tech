@@ -6,6 +6,8 @@ IT support and cybersecurity student building practical skills in Linux, network
 
 I am developing a career-ready technical portfolio focused on IT support, cybersecurity fundamentals, cloud computing, and software development. My work combines hands-on labs, small applications, automation scripts, and documentation that show how I troubleshoot problems and keep learning.
 
+According to my LinkedIn profile, I am currently studying cybersecurity at North Seattle College and previously worked with the CRDSA-WFP Project. My GitHub portfolio is designed to support future opportunities in IT support, help desk, cybersecurity, cloud computing, and technical support.
+
 My current focus areas include:
 
 - IT support and help desk troubleshooting
@@ -15,6 +17,14 @@ My current focus areas include:
 - Cloud computing with AWS fundamentals and virtual machine labs
 - Python, Flask, Bash, Git, GitHub, HTML, CSS, and technical documentation
 - Microsoft Office and professional workplace technology support
+
+## Certifications
+
+- CompTIA Security+ ce Certification, issued August 2024, expires August 2027
+- CompTIA Network+ ce Certification, issued July 2024, expires August 2027
+- CompTIA A+ ce Certification, issued March 2024, expires August 2027
+- CompTIA Secure Infrastructure Specialist - CSIS, issued August 2024, expires August 2027
+- CompTIA IT Operations Specialist - CIOS, issued July 2024, expires August 2027
 
 ## Featured Portfolio Projects
 
@@ -56,7 +66,7 @@ A Python console application for managing bookstore events, attendees, and event
 | IT Support | Troubleshooting, help desk workflows, documentation, Microsoft Office |
 | Operating Systems | Linux command line, file permissions, Bash, Windows support basics |
 | Networking | DNS, IP addressing, SSH, ports, connectivity testing |
-| Cybersecurity | Log review, failed login analysis, access control basics, secure habits |
+| Cybersecurity | Security+, log review, failed login analysis, access control basics, secure habits |
 | Cloud | AWS fundamentals, EC2 concepts, cloud learning labs |
 | Programming | Python, Flask, Bash, HTML, CSS, Git, GitHub |
 | Documentation | README files, technical notes, portfolio writing, project summaries |
