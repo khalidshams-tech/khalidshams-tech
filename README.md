@@ -14,7 +14,7 @@ According to my LinkedIn profile, I am currently studying cybersecurity at North
 | --- | --- |
 | IT Support | Troubleshooting, help desk workflows, documentation, Microsoft Office |
 | Cybersecurity | CompTIA Security+, log review, secure access, network security basics |
-| Cloud Computing | AWS Academy labs, IAM, VPC, EC2, cloud security fundamentals |
+| Cloud Computing | AWS Academy labs, IAM, VPC, EC2, S3, CloudWatch, cloud security fundamentals |
 | Linux and Networking | Linux/Unix command line, Bash, SSH, DNS, IP addressing, connectivity checks |
 | Programming | Python, Flask, HTML, CSS, Git, GitHub |
 | Professional Skills | Technical documentation, GitHub collaboration, problem solving, teamwork |
@@ -28,6 +28,12 @@ According to my LinkedIn profile, I am currently studying cybersecurity at North
 - CompTIA IT Operations Specialist - CIOS, issued February 2025, expires December 2027
 
 ## Featured Portfolio Projects
+
+### AWS Cloud Security Labs
+A professional AWS lab portfolio covering IAM, VPC, EC2, S3, CloudWatch monitoring, security groups, screenshots, architecture notes, and security best practices.
+
+- Repository: https://github.com/khalidshams-tech/aws-cloud-security-labs
+- Skills: AWS, cloud security, IAM, VPC, EC2, S3, CloudWatch, documentation
 
 ### Technical Blog and Portfolio Website
 A GitHub Pages website that presents my IT learning journey, technical blog posts, troubleshooting notes, project summaries, certifications, and resume.
@@ -64,7 +70,7 @@ A Python console application for managing bookstore events, attendees, and event
 
 - Build stronger Linux and networking troubleshooting skills
 - Continue cybersecurity practice through log analysis and defensive security labs
-- Improve AWS cloud fundamentals through IAM, VPC, EC2, and network security labs
+- Improve AWS cloud fundamentals through IAM, VPC, EC2, S3, CloudWatch, and network security labs
 - Write cleaner README documentation for every important project
 - Grow this GitHub profile into a professional IT, cybersecurity, and cloud portfolio
 
